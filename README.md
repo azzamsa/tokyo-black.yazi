@@ -3,20 +3,18 @@
 </div>
 
 <h3 align="center">
-	Tokyo Black  Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+	Tokyo Black Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
+
+<p align="center">
+    A high-contrast variant of the popular Tokyo Night theme, built for WCAG AAA compliance.
+</p>
 
 ## 👀 Preview
 
 <img src="preview.png" width="600" />
 
 ## 🎨 Installation
-
-### Using package manager
-
-```bash
-ya pkg add azzamsa/tokyo-black
-```
 
 ### Manual install
 
@@ -40,4 +38,4 @@ dark = "tokyo-black"
 
 ## Credits
 
-- https://github.com/BennyOe/tokyo-night.yazi#
+The color palette is based on work by [BennyOe](https://github.com/BennyOe/tokyo-night.yazi).
